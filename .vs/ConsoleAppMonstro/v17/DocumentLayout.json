@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\usarhabilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\usarhabilidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\defender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\defender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\atacar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\atacar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\iacoesdecombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\iacoesdecombate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\monstrofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\monstrofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\zumbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\zumbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\dragao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\dragao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\gamememente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\gamememente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\gamesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\gamesavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\monstro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|c:\\users\\neves\\documents\\consoleappmonstro\\consoleappmonstro\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB60583A-0AF9-4C09-9E50-5CA64938C1EE}|ConsoleAppMonstro\\ConsoleAppMonstro.csproj|solutionrelative:consoleappmonstro\\jogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsarHabilidade.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\UsarHabilidade.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\UsarHabilidade.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\UsarHabilidade.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\UsarHabilidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:35:30.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Atacar.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Atacar.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Atacar.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Atacar.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\Atacar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:34:13.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAcoesDeCombate.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\IAcoesDeCombate.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\IAcoesDeCombate.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\IAcoesDeCombate.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\IAcoesDeCombate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:33:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonstroFactory.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\MonstroFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\MonstroFactory.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\MonstroFactory.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\MonstroFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:33:15.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zumbi.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Zumbi.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Zumbi.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Zumbi.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\Zumbi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:32:45.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dragao.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Dragao.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Dragao.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Dragao.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\Dragao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:32:17.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\GameState.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\GameState.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\GameState.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:31:48.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameMemente.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\GameMemente.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\GameMemente.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\GameMemente.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\GameMemente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:31:27.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameSaveManager.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\GameSaveManager.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\GameSaveManager.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\GameSaveManager.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\GameSaveManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:30:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Monstro.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Monstro.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Monstro.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Monstro.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\Monstro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:29:31.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Program.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Program.cs*",
+              "RelativeToolTip": "ConsoleAppMonstro\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:26:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Defender.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Defender.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Defender.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Defender.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\Defender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:35:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Jogador.cs",
+              "DocumentMoniker": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Jogador.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMonstro\\Jogador.cs",
+              "ToolTip": "C:\\Users\\NEVES\\Documents\\ConsoleAppMonstro\\ConsoleAppMonstro\\Jogador.cs",
+              "RelativeToolTip": "ConsoleAppMonstro\\Jogador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:26:58.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1017,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

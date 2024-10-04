@@ -1,0 +1,14 @@
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\bin\Debug\net8.0\ConsoleAppMonstro.exe
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\bin\Debug\net8.0\ConsoleAppMonstro.deps.json
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\bin\Debug\net8.0\ConsoleAppMonstro.runtimeconfig.json
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\bin\Debug\net8.0\ConsoleAppMonstro.dll
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\bin\Debug\net8.0\ConsoleAppMonstro.pdb
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.AssemblyInfoInputs.cache
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.AssemblyInfo.cs
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.csproj.CoreCompileInputs.cache
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.dll
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\refint\ConsoleAppMonstro.dll
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.pdb
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ConsoleAppMonstro.genruntimeconfig.cache
+C:\Users\NEVES\Documents\ConsoleAppMonstro\ConsoleAppMonstro\obj\Debug\net8.0\ref\ConsoleAppMonstro.dll
