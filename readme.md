@@ -105,7 +105,7 @@ classDiagram
 1. **Pré-requisitos:** Tenha o [**.NET 8.0 SDK**](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) instalado.
 2. **Clone o Repositório:**  
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/LucasMBA10/Projeto-Game
    ```
 3. **Acesse o Diretório:**  
    ```bash
